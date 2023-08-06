@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Ameer
 
 # 💫 About Me:
-1) Masters Degree in Information Technology with Web and App development <br>2) Technologies that I'm using <br>a) React JS, Node JS, MERN Stack<br>b) Bootstrap, Tailwind CSS, Bulma, 
+1) Masters Degree in Information Technology with Web and App development <br>2) Technologies that I'm using <br>a) React JS,NextJS, Node JS, MERN Stack<br>b) Bootstrap, Tailwind CSS, Bulma, 
 
 
 ## 🌐 Socials:
