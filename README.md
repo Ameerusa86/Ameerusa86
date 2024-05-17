@@ -1,14 +1,41 @@
 # Hi there 👋 My name is Ameer
 
-# 💫 About Me:
-Masters Degree in Information Technology with Web and App development
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+
+## 💫 About Me:
+I'm a passionate software developer with a master's degree in Information Technology, specializing in web and app development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. I'm always eager to learn new technologies and improve my skills.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ameerusa86&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ameerusa86&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+- 🌱 I’m currently learning [Data Science, Machine Learning with Scikit-learn & Tensor Flow]
+- 💬 Ask me about [Full Stack Web development, Python apps, etc]
+- 📫 How to reach me: [ameer.hasan.dev@gmail.com]
+
+## 🛠️ Skills
+
+### Languages
+- React JS
+- Next JS
+- Angular
+- Node JS
+- Mongo DB
+- Python
+- Pandas
+- Streamlit
+- Flask
+
+## 📈 GitHub Stats
+
+![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer86/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourportfolio.com)
 
