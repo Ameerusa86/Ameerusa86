@@ -26,6 +26,7 @@ I'm a passionate software developer with a master's degree in Information Techno
 - Pandas
 - Streamlit
 - Flask
+- FastAPI
 
 ## 🔗 Connect with Me
 
