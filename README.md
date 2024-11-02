@@ -5,10 +5,6 @@
 ## 💫 About Me
 I'm a passionate software developer with a master's degree in Information Technology, specializing in web and app development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Always eager to learn and grow.
 
-### 🌱 Currently Learning
-- **Data Science**
-- **Machine Learning with Scikit-learn & TensorFlow**
-
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ameerusa86&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
