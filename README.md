@@ -3,7 +3,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ameerusa86&style=flat-square&color=blue)
 
 ## 💫 About Me
-I'm a passionate software developer with a master's degree in Information Technology, specializing in web and app development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Always eager to learn and grow, I'm currently diving deep into Data Science and Machine Learning.
+I'm a passionate software developer with a master's degree in Information Technology, specializing in web and app development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Always eager to learn and grow.
 
 ### 🌱 Currently Learning
 - **Data Science**
