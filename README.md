@@ -33,7 +33,7 @@ I'm a passionate software developer with a master's degree in Information Techno
 
 ## 📫 How to Reach Me
 - **Email:** [ameer.hasan.dev@gmail.com](mailto:ameer.hasan.dev@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer86/)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerdev/)
 - **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ameer-hasan-portfolio.vercel.app/)
 
 ## 📊 GitHub Stats
