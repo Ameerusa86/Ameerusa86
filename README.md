@@ -28,7 +28,6 @@ I'm a passionate software developer with a master's degree in Information Techno
 ### 🛠️ Other Skills
 - Full Stack Web Development
 - Building Python Applications
-- Data Science & Machine Learning
 - RESTful API Development
 
 ## 📫 How to Reach Me
