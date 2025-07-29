@@ -1,17 +1,20 @@
-# Hi there 👋 I'm Ameer Hasan
+# 👋 Hi, I'm Ameer Hasan
+
+**Software Developer | Web & App Specialist | Lifelong Learner**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ameerusa86&style=flat-square&color=blue)
 
-## 💫 About Me
-I'm a passionate software developer with a master's degree in Information Technology, specializing in web and app development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Always eager to learn and grow.
+---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ameerusa86&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+## 💡 About Me
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Ameerusa86&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a passionate software developer with a Master's in Information Technology, specializing in web and app development. I love turning complex problems into simple, beautiful, and intuitive solutions. I'm always eager to learn, collaborate, and grow in the tech world.
 
-## 💻 Technologies & Tools
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages & Frameworks:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
@@ -25,23 +28,44 @@ I'm a passionate software developer with a master's degree in Information Techno
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Other Skills
+**Other Skills:**
 - Full Stack Web Development
 - Building Python Applications
 - RESTful API Development
 
-## 📫 How to Reach Me
-- **Email:** [ameer.hasan.dev@gmail.com](mailto:ameer.hasan.dev@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerdev/)
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ameer-hasan-portfolio.vercel.app/)
+---
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ameerusa86&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+
+---
+
+## 🔥 Recent Projects & Activity
+
+- 🏫 **SchoolWise:** A school management system
+- 📚 **LMS Project:** Step-by-step learning management system with detailed code explanations
+- 🌐 **Course Website:** Building with Hygraph & Next.js 14
+- 🌏 **Global Exchange Platform:** Sleek front-end for cultural connections
+
+---
 
 ## 📊 GitHub Stats
+
 ![Ameer Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ameerusa86&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameerusa86&layout=compact&theme=radical)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Ameerusa86&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏅 Recent Activity
-- **Building:** A school management system called 'SchoolWise'
-- **Developing:** An LMS project with detailed explanations for each step and code
-- **Exploring:** Hygraph for a course website project using Next.js 14
-- **Enhancing:** A Global Cultural Exchange Platform with a sleek front-end design
+---
+
+## 🤝 Let's Connect!
+
+- 📧 **Email:** [ameer.hasan.dev@gmail.com](mailto:ameer.hasan.dev@gmail.com)
+- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerdev/)
+- 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ameer-hasan-portfolio.vercel.app/)
+
+---
+
+> _"Code is like humor. When you have to explain it, it's bad." — Cory House_
+
+---
