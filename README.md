@@ -61,15 +61,3 @@
 ![Ameer Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ameerusa86&show_icons=true&theme=radical&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameerusa86&layout=compact&theme=radical&border_radius=10)
-
----
-
-## 🏅 Currently Working On
-- 🎓 `SchoolWise` – A modern school management system  
-- 📚 `LMS Builder` – Full-featured learning platform with guided code breakdowns  
-- 📘 `Course Website` – Built with Hygraph + Next.js 14  
-- 🌍 `Cultural Exchange Platform` – Sleek global networking UI
-
----
-
-> ⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
