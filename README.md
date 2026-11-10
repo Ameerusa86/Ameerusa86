@@ -68,12 +68,12 @@
 
   <br><br>
 
-  ### 🏆 GitHub Trophies
+  <h3>🏆 GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=Ameerusa86&theme=radical&no-frame=false&no-bg=false&margin-w=5" alt="GitHub Trophies" />
 
   <br><br>
 
-  ### 🔝 Top Contributed Repositories
+  <h3>🔝 Top Contributed Repositories</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=Ameerusa86&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
 
 </div>
