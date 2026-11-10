@@ -3,12 +3,10 @@
   # 👋 Hi there, I'm Ameer Hasan
   
   <p align="center">
-    <a href="https://ameer-hasan.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://ameer-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/ameerdev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:ameer.hasan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Ameerusa86&style=flat-square&color=blue&label=Profile+Views" alt="Visitor Count"/>
 
 </div>
 
@@ -20,9 +18,9 @@
 💡 **Mission:** I love turning complex challenges into clean, user-friendly, and scalable applications.  
 🚀 **Approach:** Always learning, building, and refining my craft across full-stack development.  
 
-- 💼 **Currently working on:** Building AI-Enhanced Python Apps & Full-Stack Web Applications
-- 🌱 **Currently learning:** Advanced Microservice Architectures & Next.js optimizations
-- 💬 **Ask me about:** React, Node.js, Python, or API integrations
+- 💼 **Currently working on:** A comprehensive Learning Management System (LMS) with role management and course catalogs.
+- 🌱 **Currently learning:** Angular v22 architecture (standalone components, Signals, and modern control flow syntax) and TypeScript.
+- 💬 **Ask me about:** Next.js, Angular, Python, or API integrations.
 - 📫 **How to reach me:** [ameer.hasan.dev@gmail.com](mailto:ameer.hasan.dev@gmail.com)
 
 ---
@@ -33,6 +31,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -49,6 +48,26 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Enterprise LMS Portal** | A modern course management portal featuring robust user authentication, role-based access for students/instructors/admins, lesson viewers, and progress tracking metrics. | Next.js, Tailwind CSS, REST/GraphQL | [Live Demo](https://devforgev2.vercel.app) |
+| **CineVault** | A dynamic movie catalog and watchlist application showcasing responsive layout design and modern front-end framework capabilities. | Angular v22, Tailwind CSS | [View Source](#) |
+| **Atlassian IT Knowledge Base** | Configured an integrated JSM IT Service board and Confluence space to isolate internal IT documentation from public help articles across sandbox and prod environments. | Jira, Confluence | *Internal* |
+
+---
+
+## 📝 Recent Writing & Focus
+
+Currently deep-diving into modern front-end architectures and styling solutions. 
+
+* ✍️ **Writing:** Drafting a technical deep-dive on Angular 22 Routing mechanics.
+* 🎨 **Design Philosophy:** Heavily leveraging Tailwind CSS for rapid, responsive component styling and layout across all web projects.
+* 📚 **Organization:** Utilizing Notion to structure technical study notes and map out complex microservice architectures.
+
+---
+
 ## 🛠️ What I Do
 
 - ⚙️ **Full Stack Web & App Development:** Creating responsive and dynamic user experiences.
@@ -56,24 +75,3 @@
 - 🧠 **Building AI-Enhanced Python Apps:** Integrating intelligent solutions into modern workflows.
 - 🛠️ **Workflow Automation & API Integrations:** Streamlining processes for optimal efficiency.
 - 🌐 **Multi-platform UI/UX Design:** Crafting intuitive interfaces across web and mobile.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ameerusa86&show_icons=true&theme=radical&border_radius=10" alt="Ameer's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameerusa86&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
-
-  <br><br>
-
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ameerusa86&theme=radical&no-frame=false&no-bg=false&margin-w=5" alt="GitHub Trophies" />
-
-  <br><br>
-
-  <h3>🔝 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ameerusa86&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
-
-</div>
